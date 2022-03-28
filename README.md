@@ -3,6 +3,5 @@ To-do lists offer a way to increase productivity, stopping you from forgetting t
 
 <h1>
   Page
-  
-  
+  <br>
   ![pic](https://user-images.githubusercontent.com/70971734/160449832-c4a5ecbc-4c4a-4616-b86b-63e8629508de.jpeg)
